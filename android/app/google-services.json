@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "728602679521",
+    "project_id": "winged-citron-232517",
+    "storage_bucket": "winged-citron-232517.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:728602679521:android:df76c53204129c41083fa0",
+        "android_client_info": {
+          "package_name": "com.example.flutter_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "728602679521-sk3356glujdgckd14jquogdebichfnf1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.flutter_app",
+            "certificate_hash": "b07445b91d02328e8c6da88a945f626fac5fe3c2"
+          }
+        },
+        {
+          "client_id": "728602679521-2msafht59e6s44h0ttbdfk744v36nh87.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAxk5hVeCcnOGfqq6FbEShqzFyMaG7zgts"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "728602679521-2msafht59e6s44h0ttbdfk744v36nh87.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
